@@ -1,4 +1,4 @@
 # hello_world
 Just another repository
-ye kya chal rha hai bhai
-this is getting intense
+
+this seems like a promising start though it is going to be long journey ahead
